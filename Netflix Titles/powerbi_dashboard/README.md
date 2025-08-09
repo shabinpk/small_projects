@@ -45,9 +45,11 @@ The dataset was cleaned, transformed, and saved as `cleaned_netflix_data.csv`, w
 ---
 
 ## Included Files
+- `netflix.pbix` — full interactive Power BI dashboard file.
 - `cleaned_netflix_data.csv` — cleaned dataset for Power BI.
 - `visuals/pb1.PNG` — dashboard screenshot (visuals page).
 - `visuals/pb1_takeaways.PNG` — dashboard screenshot (key takeaways page).
+
 
 ---
 
