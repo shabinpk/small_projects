@@ -37,13 +37,13 @@ pip install -r requirements.txt
 
 | Plot | Description |
 |---|---|
-| ![type_distribution](visuals/type_distribution.png) | **Count of Movies vs TV Shows** — shows overall composition. |
-| ![movie_duration_hist](visuals/movie_duration_hist.png) | **Distribution of Movie Durations** — histogram with avg line (~99.6 min). |
-| ![tv_season_count](visuals/tv_season_count.png) | **Distribution of TV Show Seasons** — most shows have 1–2 seasons. |
-| ![avg_duration_top_5_country](visuals/avg_duration_top5_country.png) | **Avg Movie Duration — Top 5 countries** (by average runtime). |
-| ![boxplot_rating](visuals/boxplot_rating.png) | **Movie Duration by Rating** — boxplots highlighting spread / outliers. |
-| ![pie_rating](visuals/pie_rating.png) | **Top 5 Ratings (Movies)** — share of dominant rating categories. |
-| ![era_distribution](visuals/era_distribution.png) | **Content Count by Era & Type** — Classic / Old School / Modern counts. |
+| ![type_distribution](visuals/type_distribution.PNG) | **Count of Movies vs TV Shows** — shows overall composition. |
+| ![movie_duration_hist](visuals/movie_duration_hist.PNG) | **Distribution of Movie Durations** — histogram with avg line (~99.6 min). |
+| ![tv_season_count](visuals/tv_season_count.PNG) | **Distribution of TV Show Seasons** — most shows have 1–2 seasons. |
+| ![avg_duration_top_5_country](visuals/avg_duration_top5_country.PNG) | **Avg Movie Duration — Top 5 countries** (by average runtime). |
+| ![boxplot_rating](visuals/boxplot_rating.PNG) | **Movie Duration by Rating** — boxplots highlighting spread / outliers. |
+| ![pie_rating](visuals/pie_rating.PNG) | **Top 5 Ratings (Movies)** — share of dominant rating categories. |
+| ![era_distribution](visuals/era_distribution.PNG) | **Content Count by Era & Type** — Classic / Old School / Modern counts. |
 
 ---
 
