@@ -1,4 +1,4 @@
-# 🐍 Python Analysis
+# Python Analysis
 
 This folder contains data cleaning, transformation, and exploratory analysis for the **World Population Dataset**.
 
