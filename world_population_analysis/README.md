@@ -9,7 +9,7 @@ It highlights **population trends, growth rates, country/continent comparisons, 
 ## 📂 Project Structure
 - **Python/** → Data cleaning, preprocessing, EDA, and exporting cleaned dataset.
 - **PowerBI/** → Dashboard built on the cleaned dataset with advanced visuals.
-- **Data/** → Raw and cleaned datasets.
+- **Data/** → Raw Dataset.
 
 ---
 
