@@ -24,4 +24,4 @@ The goal was to clean the raw dataset, analyze trends, and build interactive das
 2. Run the Python script for cleaning and static plots
 3. Open the Power BI file (`.pbix`) for the dashboard
 
-![IMDb Dashboard](PowerBI/imdb_trends.PNG)
+![IMDb Dashboard](PowerBI/imdb_trends_analysis.PNG)
