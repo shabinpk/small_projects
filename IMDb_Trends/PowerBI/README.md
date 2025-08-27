@@ -16,5 +16,5 @@ This folder contains the Power BI dashboard and related assets.
 ## 📁 Files
 - `IMDb_Trends.pbix` → Power BI file
 - `imdb_trends.PNG` → Dashboard screenshot
-- ![IMDb Trends Dashboard](imdb_trends.PNG)
+- ![IMDb Trends Dashboard](imdb_trends_analysis.PNG)
 
