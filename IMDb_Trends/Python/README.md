@@ -14,7 +14,7 @@ This folder contains the Python-based data cleaning and visualization steps for 
    - Correlation Heatmap
 
 ## 📁 Files
-- `imdb_cleaning_visuals.py` → Main script
+- `imdb_analysis.ipynb` → Jupyter Notebook with full code & explanation  
 - `Top 1000 IMDB movies.csv` → Raw dataset
 - `IMDB_Cleaned.csv` → Cleaned dataset (ready for Power BI)
 - `requirements.txt` → Dependencies
