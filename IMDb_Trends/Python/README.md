@@ -15,6 +15,7 @@ This folder contains the Python-based data cleaning and visualization steps for 
 
 ## 📁 Files
 - `imdb_cleaning_visuals.py` → Main script
+- `Top 1000 IMDB movies.csv` → Raw dataset
 - `IMDB_Cleaned.csv` → Cleaned dataset (ready for Power BI)
 - `requirements.txt` → Dependencies
 
